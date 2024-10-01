@@ -5,6 +5,8 @@
 
 ## Project setup
 ```bash
+# you can install teh necessary dependencies by just using the configuration files stated there and then run the npm install or you can jst follow the steps below and install them manually.
+
 # Create a new node project
 npm init -y
 
